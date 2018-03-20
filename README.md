@@ -6,7 +6,7 @@ Melo3D utiliza tecnologias abiertas (open source) tanto en el software, como en 
 
 - El marco es hecho de MDF basado en el projecto iTopie http://reprap.org/wiki/ITopie. 
 
-- Utiliza partes plastics modificadas del projecto Prusa https://github.com/prusa3d/Original-Prusa-i3.
+- Utiliza partes plastics impresas en PETG https://github.com/prusa3d/Original-Prusa-i3 y modificadas para acomodar el sensor de 12mm de grosor.
 
 - Raspberry Pi 3 https://es.wikipedia.org/wiki/Raspberry_Pi
 
