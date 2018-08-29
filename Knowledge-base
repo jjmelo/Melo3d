@@ -3,3 +3,8 @@ Knowledge Base
 Gcode commands:
 
 G29 = mesh bed leveling
+
+To update Raspberry Pi:
+
+sudo apt-get update
+sudp apt-get upgrade
