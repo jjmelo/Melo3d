@@ -1,6 +1,8 @@
-# Melo3D - Impresora 3D con Raspberry Pi 3 y pantalla táctil derivada de Prusa i3 Mk3
+# Melo3D - Impresora 3D derivada de Prusa i3 Mk3 con Raspberry Pi 3 y pantalla táctil de 7"
 
-Melo3D utiliza tecnologias abiertas (open source) tanto en el software, como en el hardware. Cuenta con un computador de placa de reducida, Raspberry Pi 3, que le dan connectividad Wifi e Ethernet. 
+Melo3D es una impresora 3D derivada de Prusa i3 Mk3 con Raspberry Pi 3 y pantalla táctil de 7" o touchsceeen y connectividad Wifi y memoria de 32 gb. La impresora se entrega en Bogotá completamente armada y calibrada y con un curso de manejo para que el usuario pueda empezar a imprimir en 3D sin tener que ensamblar o configuar. 
+
+Melo3D utiliza tecnologias abiertas (open source) tanto en el software, como en el hardware. Cuenta con un computador de placa de reducida, Raspberry Pi 3, que le dan connectividad Wifi e Ethernet. El usurio puede controlar la impresora 3D desde la pantalla, software para PC y Mac, ademas de applicacion para iPhone y Android. 
 
 -Hardware-
 
