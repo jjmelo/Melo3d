@@ -1,4 +1,4 @@
-# Melo3d - Impresora 3D con Raspberry Pi 3 y pantalla táctil derribada de RepRap / Prusa Mk3
+# Melo3d - Impresora 3D con Raspberry Pi 3 y pantalla táctil derivada de Prusa i3 Mk3
 
 Melo3D utiliza tecnologias abiertas (open source) tanto en el software, como en el hardware. Cuenta con un computador de placa de reducida, Raspberry Pi 3, que le dan connectividad Wifi e Ethernet. 
 
@@ -22,3 +22,5 @@ Melo3D utiliza tecnologias abiertas (open source) tanto en el software, como en 
 - Para el software del controlador, Melo3D utliza Marlin https://github.com/MarlinFirmware/Marlin. 
 
 - Octoprint, disponible en http://octoprint.org, es el software que maneja el Raspberry Pi 3 y la pantalla táctil de 7 pulgadas. 
+
+- AstroPrint Touch es otra variante de software que se entrega con la impresora.
